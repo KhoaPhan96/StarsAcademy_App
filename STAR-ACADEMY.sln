@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STAR-ACADEMY", "Demo_Encrypt_LoadFile\STAR-ACADEMY.csproj", "{A2E660CB-B7CD-4530-9B4D-64E9A0AC153D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{18F2D1C2-AC66-4069-B1F2-70563DC9E953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2E660CB-B7CD-4530-9B4D-64E9A0AC153D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E660CB-B7CD-4530-9B4D-64E9A0AC153D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E660CB-B7CD-4530-9B4D-64E9A0AC153D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E660CB-B7CD-4530-9B4D-64E9A0AC153D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18F2D1C2-AC66-4069-B1F2-70563DC9E953}.Debug|Any CPU.ActiveCfg = Debug
+		{18F2D1C2-AC66-4069-B1F2-70563DC9E953}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCC7AAE0-3B6C-4B4F-9C11-131133F248B0}
+	EndGlobalSection
+EndGlobal

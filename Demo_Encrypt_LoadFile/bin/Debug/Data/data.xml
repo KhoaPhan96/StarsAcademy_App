@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <TokenAPI>
+    <id>2</id>
+    <uuid>dccb66f9617ae7ca</uuid>
+    <name>Star Academy (Test)</name>
+    <description>https://knsngoisao.edu.vn</description>
+    <customer_type>corporate_customer</customer_type>
+    <avatar_url>https://star-academy.s3.ap-southeast-1.amazonaws.com/production/uploads/customer/avatar/2/Screenshot_2024-05-26_at_21.10.53.png</avatar_url>
+    <token>058cf630555675b1</token>
+    <expired_at>26-05-2025 00:00:00 AM</expired_at>
+    <is_active>true</is_active>
+    <is_valid>true</is_valid>
+    <phone>090 698 29 65</phone>
+    <email>staracademy.hcm@gmail.com</email>
+    <address>191/1 Lê Văn Việt, phường Hiệp Phú, TP. Thủ Đức, TP. Hồ Chí Minh</address>
+    <image_avatar_Path>F:\Khoa\Freelance\DangLam\Stars Academy Home\Demo_Encrypt_LoadFile\Demo_Encrypt_LoadFile\bin\Debug\Data\U2NyZWVuc2hvdF8yMDI0LTA1LTI2X2F0XzIxLjEwLjUzLnBuZy5qcGcuZW5j</image_avatar_Path>
+  </TokenAPI>
+</DocumentElement>

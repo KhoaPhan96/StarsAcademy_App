@@ -1,0 +1,26 @@
+﻿using Demo_Encrypt_LoadFile.Feature;
+using Demo_Encrypt_LoadFile.Feature.Functions;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Demo_Encrypt_LoadFile
+{
+    static class Program
+    {
+        /// <summary>
+        /// The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            Application.EnableVisualStyles();
+            Application.SetCompatibleTextRenderingDefault(false);
+            //Application.Run(new FormMain());           
+            //Application.Run(new frm_StartAcademy());
+            Application.Run(new frm_StartAcademy_Home());
+        }
+    }
+}
